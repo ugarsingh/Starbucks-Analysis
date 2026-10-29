@@ -34,39 +34,7 @@ Add your dashboard screenshot here:
 ![Starbucks Analytics Dashboard]
 <img width="955" height="493" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/3502b331-7204-46e9-8c95-c85605ad31b6" />
 
+👨‍💻 Author
 
-## 📁 Project Files
-
-- `Starbucks_Dashboard.pbix` — Power BI project file.
-- `starbucks_data.csv` — Dataset, if redistribution is permitted.
-- `dashboard_screenshot.png` — Dashboard preview.
-
-
-## 🚀 Future Improvements
-
-I plan to enhance the Starbucks Analytics Dashboard further with the following improvements:
-
-- 🌍 **Enhanced Global Presence Analysis:** Replace or complement the current map visualization with a bar chart to compare Starbucks store presence across countries more clearly.
-- ☕ **Beverage Images with Data Values:** Display the caffeine content (in mg) alongside each beverage image to make the dashboard more informative and visually engaging.
-- 🏆 **Dynamic Top 5 Caffeine Analysis:** Improve the Top 5 Highest Caffeine Beverages section so that beverage names, images, rankings, and caffeine values are displayed together.
-- 🎨 **UI & Visualization Refinement:** Continue improving the layout, readability, and overall dashboard experience.
-
-These improvements will help make the dashboard more interactive, insightful, and effective for data-driven exploration.
-
-
-## 📚 Key Learnings
-
-Through this project, I practiced building interactive Power BI visuals, writing DAX measures, designing KPI cards, and presenting data through visual storytelling.
-
-## 👩‍💻 Author
-
-**Vibhasha Suthar**
-
-Aspiring Data Scientist | Machine Learning & Data Analytics
-
-- [GitHub](https://github.com/vibhashasuthar0712)
-- [LinkedIn](https://linkedin.com/in/vibhasha-suthar-280b51351/)
-
----
-
-*This project was created for learning and portfolio development.*
+Ugar Singh
+B.Tech Computer Science Engineering Student | Aspiring Data Analyst
