@@ -37,4 +37,5 @@ Add your dashboard screenshot here:
 👨‍💻 Author
 
 Ugar Singh
+
 B.Tech Computer Science Engineering Student | Aspiring Data Analyst
